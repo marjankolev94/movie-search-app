@@ -38,7 +38,11 @@ All the API calls (Routes) except Login and Register.
    php artisan serve
 
 ### Usage
-- Postman can be used for testing the API calls
+- Open the app in your browser.
+- On the Home Page, you can search for movies by their title
+- For each movie, details can be seen by clicking on it.
+- Movies can be sorted by title or release  year.
+- Movies can be added or removed from the Favorite list.
 ### Technologies Used
 - PHP: Server-side scripting language.
 - Laravel: PHP framework for building modern web applications.
