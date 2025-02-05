@@ -2,8 +2,6 @@
 
 Movie Search App is a PHP/Laravel application designed to search for movies from specific APIs by their title.
 
-All the API calls (Routes) except Login and Register.
-
 ## Features
 
 - **Search for Movie**: Input field for entering movie title to search for.
