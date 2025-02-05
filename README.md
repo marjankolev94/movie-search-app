@@ -20,7 +20,7 @@ All the API calls (Routes) except Login and Register.
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/marjankolev94/primeyear-app.git
+   git clone https://github.com/marjankolev94/movie-search-app.git
 
 2. Navigate to the project directory:
    ```bash
@@ -33,11 +33,7 @@ All the API calls (Routes) except Login and Register.
 4. Set up environment variables:
 - Copy .env.example to .env and configure your TMDB API and application settings as needed.
 
-5. Run migrations:
-   ```bash
-   php artisan migrate
-
-6. Serve the application
+5. Serve the application
    ```bash
    php artisan serve
 
